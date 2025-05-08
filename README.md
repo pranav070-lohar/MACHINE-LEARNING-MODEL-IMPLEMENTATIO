@@ -1,4 +1,4 @@
-# MACHINE-LEARNING-MODEL-IMPLEMENTATIO
+# MACHINE-LEARNING-MODEL-IMPLEMENTATION
 Created a spam detection model using RandomForestClassifier with live predictions.
 
 COMPANY: CODTECH IT SOLUTIONS
