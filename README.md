@@ -27,4 +27,6 @@ This task introduced us to the complete machine learning pipeline: from dataset 
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/1d7d9cdf-2358-4a50-b588-12eca369e965)
+
 ![Image](https://github.com/user-attachments/assets/1e9c2819-5358-4821-9eb1-8e58973aae38)
